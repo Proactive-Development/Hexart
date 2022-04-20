@@ -1,0 +1,14 @@
+{
+    "name": "Hexart",
+    "description": "Remember codes and text easier with Text Art ",
+    "version": "0.1.0",
+    "main_file": "src/__main__.py",
+    "author": "none",
+    "license": "none",
+    "url": "none",
+    "email": "none",
+    "languages": [
+        "Python"
+    ],
+    "actions": {}
+}
